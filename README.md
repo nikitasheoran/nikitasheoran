@@ -1,4 +1,4 @@
-👋 Hi, I’m Nikita Sheoran  
+👋 Hi, I’m Nikita 
 
 🎓 Full Stack Development & Software Engineering student at Lambton College  
 💻 Beginner developer passionate about coding, problem solving, and creativity  
