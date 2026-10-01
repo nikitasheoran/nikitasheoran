@@ -1,58 +1,58 @@
-👋 Hi, I’m Nikita 
+# 👋 Hi, I’m Nikita 
 
-🎓 Full Stack Development & Software Engineering student at Lambton College  
-💻 Beginner developer passionate about coding, problem solving, and creativity  
-🎨 I love combining technology with art & craft  
-🚀 Aspiring Software Developer, aiming to grow into a strong full-stack engineer  
-
----
-
-🛠️ **Skills & Learning**  
-- **Languages:** C#, JavaScript, Python (learning)  
-- **Web:** HTML, CSS, JavaScript  
-- **Frameworks:** React (learning), Node.js (learning)  
-- **Databases:** SQL, MongoDB  
-- **Tools:** Git, GitHub, Visual Studio  
+🎓 **Software Engineering & Full Stack Development Student** at Lambton College  
+💻 Passionate developer focused on scalable system architecture, problem-solving, and clean code.  
+🚀 Aiming to engineer robust full-stack applications with intelligent AI integrations.  
+🎨 *I love combining technology with art & craft—blending creativity with logic is my favorite domain!*
 
 ---
 
-🌱 **Currently Working On**  
-- Full-stack practice projects  
-- Improving React & backend skills  
-- Building creative web applications and interactive tools  
-- Expanding knowledge of web security and best practices  
+### 🛠️ Technical Stack & Tooling
+
+*   **Languages:** JavaScript (ES6+), C#, Python *(learning)*
+*   **Frontend Web:** HTML5, CSS3, Tailwind CSS, React *(Deep Diving)*
+*   **Backend & Databases:** Node.js, Express.js, RESTful APIs, SQL, MongoDB
+*   **Developer Ecosystem:** Git, GitHub, Visual Studio, VS Code, Postman
 
 ---
 
-📂 **Projects**  
-- `TaskNest` – Advanced task management web app with drag-and-drop, form validation, and AJAX integration  
-- `RootWise` – STEM-themed interactive plant learning website  
-- `Hyperspace Cheese Battle` – Turn-based C# game with dice and special power mechanics  
-- `Playlist Manager` – Spotify-style playlist manager using C# and doubly linked lists  
-
-*(More projects coming soon!)*
+### 🌱 Current Focus & Milestones
+- 🧠 **Integrating AI:** Learning to securely pipe intelligent models (OpenAI API) into backend node environments.
+- ⚡ **Full-Stack Projects:** Building interactive web applications with complete CRUD pipelines.
+- 🔒 **Security Best Practices:** Expanding knowledge on authentication, encryption, and secure API handling.
 
 ---
 
-✨ **Goals**  
-- Become a confident Full-Stack Developer  
-- Build meaningful, real-world projects  
-- Contribute to open-source communities  
-- Land a role at a top tech company in the future  
+### 📂 Highlighted Projects
+
+*   🚀 **TaskNest** – Advanced task management web app built with intuitive drag-and-drop mechanics, robust client-side form validation, and dynamic AJAX state updates.
+*   🌱 **RootWise** – A STEM-themed interactive plant learning platform crafted to make biology accessible and visual.
+*   🎲 **Hyperspace Cheese Battle** – A turn-based strategic game written in C# featuring custom dice-rolling logic and unique combat power mechanics.
+*   🎵 **Playlist Manager** – A Spotify-style audio track management system written in C# utilizing custom doubly linked lists for memory-efficient navigation.
+
+*(More advanced MERN + AI projects coming down the pipeline!)*
 
 ---
 
-📈 **GitHub Stats**  
+### ✨ Professional Goals
+- Become an independent, confident Full-Stack Software Engineer.
+- Build production-ready, real-world SaaS tools that solve practical user problems.
+- Deeply contribute to open-source software communities.
+
+---
+
+### 📈 GitHub Ecosystem
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikitasheoran&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitasheoran&layout=compact&theme=radical)
 
 ---
 
-📫 **Connect with me**  
-- ✉ Email: nikitasheoran28@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/nikita-sheoran](https://www.linkedin.com)  
+### 📫 Connect With Me
+
+- ✉️ **Email:** nikitasheoran28@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/nikita-sheoran](https://linkedin.com)  
 
 ---
 
-💡 *Fun Fact:* I love exploring coding, art, and DIY projects—blending creativity with technology is my favorite!
+💡 *Fun Fact:* When I'm not writing code or debugging servers, you can find me working on physical DIY craft projects!
