@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nikita 
 
-🎓 **Software Engineering & Full Stack Development Student** at Lambton College  
+🎓 **Full Stack Software Development Student** at Lambton College  
 💻 Passionate developer focused on scalable system architecture, problem-solving, and clean code.  
 🚀 Aiming to engineer robust full-stack applications with intelligent AI integrations.  
 🎨 *I love combining technology with art & craft—blending creativity with logic is my favorite domain!*
